@@ -1,0 +1,26 @@
+# str.capitalize
+# str.endswith
+# str.startswith
+# str.find
+# str.index
+# str.isalpha
+# str.isnumeric
+# str.islower
+# str.isupper
+# str.upper
+# str.lower
+# str.replace
+# str.center
+# str.rjust
+# str.ljust
+# str.lstrip
+# str.strip
+
+
+
+sets = ' AKAKAK1w '
+
+up = sets.rstrip()
+
+
+print(up)
